@@ -1,0 +1,7 @@
+# Terraform files to ignore
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# AWS Key Pair
+*.pem
